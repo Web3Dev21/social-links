@@ -1,10 +1,26 @@
-title {
-    color:aqua;
+
+h1 {
+    font: 100px bold;
+    text-align: center;
+    color: aquamarine;
+    background-color: coral;
+}
+
+h3 {
+    font: 70x bold;
+    text-align: left;
+    color: black;
+}
+
+li {
+    text-align: left;
+}
+
+button {
+    color: black;
     background-color: burlywood;
 }
 
-h1 {
-    color: aquamarine;
-    background-color: coral;
-
+p {
+    color: rgb(215, 23, 23);
 }
